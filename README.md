@@ -3,4 +3,4 @@ Summer project of generating art according to different rules for a cellular aut
 
 - stepping stone rule
 - rule 942
-- cyclis CA
+- cyclic CA
